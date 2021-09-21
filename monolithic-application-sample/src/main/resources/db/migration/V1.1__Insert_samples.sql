@@ -14,7 +14,7 @@ values (1, current_timestamp, current_timestamp, 'The latest powerful iPhone fro
 
 insert into "reviews"
 values (1, current_timestamp, current_timestamp, 'I like the product but I found that it''s not perfect', 4,
-        'Good but not perfect'),
+        'Expensive comparing to Xiaomi'),
        (2, current_timestamp, current_timestamp, 'Wonderful product', 5, 'Excellent'),
        (3, current_timestamp, current_timestamp, 'I like the product but not the price', 4, 'Good but very expensive');
 
